@@ -1,7 +1,4 @@
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
-/>
+
 ![](https://github.com/M-Thanu/M-Thanu/blob/main/github%20banner.jpg)
 # Hi there 👋, I'm Thanuja
 
@@ -19,23 +16,17 @@
 
 
 ## Connect with Me
-
+---
   <a href="https://www.linkedin.com/in/thanuja-mahalingam-1809a02a3/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> 
   </a>
-  <a href="@mahanthanuja@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /> 
+  <a href="https://medium.com/@mahanthanuja">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/Thanuja_Mahan">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  /> 
   </a>
-
-
-
-###
-LinkedIn
-Medium
-Portfolio
+  
 
 ## Skills
 
@@ -60,12 +51,13 @@ Portfolio
 ---
 <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/>
 
-***Explore and Experience Ever and Ever***
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Thanu)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Thanu&show_icons=true)  
+
+<center>
+***Explore and Experience Ever and Ever***
+</center>
 
 
 
