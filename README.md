@@ -1,5 +1,5 @@
 
-![](https://github.com/M-Thanu/M-Thanu/blob/main/My%20Readme.jpg)
+![](https://github.com/M-Thanu/M-Thanu/blob/main/MyReadMe.jpg)
 # Hi there 👋, I'm Thanuja
 
 *Exploring and experiencing for commiting towards enrichment of excellence. I thrive to solve problems through commands and developing real time solutions. I focus on adopting with new technologies and collaborating with innovators to build something amazing.*
