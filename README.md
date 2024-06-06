@@ -56,7 +56,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Thanu&show_icons=true)  
 
 
-  ***Explore and Experience Ever and Ever***
+ ✨ ***Explore and Experience Ever and Ever*** ✨
 
 
 
