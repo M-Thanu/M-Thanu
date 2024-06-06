@@ -14,7 +14,7 @@
 
 👩‍💻 **Work mode  : Remote | Hybrid**
 
-
+<br>
 ## Connect with Me
 
   <a href="https://www.linkedin.com/in/thanuja-mahalingam-1809a02a3/">
@@ -26,8 +26,8 @@
   <a href="https://www.hackerrank.com/profile/Thanuja_Mahan">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  /> 
   </a>
-  
 
+  <br>
 ## Skills
 ---
 **Programming :** 
@@ -51,13 +51,15 @@
 ---
 <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/>
 
+<br> <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Thanu)](https://github.com/anuraghazra/github-readme-stats)
-
+<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Thanu&show_icons=true)  
 
-
- ✨ ***Explore and Experience Ever and Ever*** ✨
-
+<br>
+<font align="center">
+<i> <b> ✨ Explore and Experience Ever and Ever ✨ </b> </i>
+</font>
 
 
 
