@@ -16,20 +16,20 @@
 
 
 ## Connect with Me
----
+
   <a href="https://www.linkedin.com/in/thanuja-mahalingam-1809a02a3/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> 
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@mahanthanuja">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/Thanuja_Mahan">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  /> 
   </a>
   
 
 ## Skills
-
+---
 **Programming :** 
 ---
 <img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/> <img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/> <img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
