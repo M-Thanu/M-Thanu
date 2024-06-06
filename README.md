@@ -14,20 +14,20 @@
 
 👩‍💻 **Work mode  : Remote | Hybrid**
 
-<br>
+
 ## Connect with Me
 
   <a href="https://www.linkedin.com/in/thanuja-mahalingam-1809a02a3/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> 
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"> 
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@mahanthanuja">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo">
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/Thanuja_Mahan">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  /> 
   </a>
 
-  <br>
+
 ## Skills
 ---
 **Programming :** 
@@ -54,6 +54,8 @@
 <br> <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Thanu)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Thanu&show_icons=true)  
 
 <br>
